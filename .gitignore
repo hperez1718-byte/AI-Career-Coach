@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Old session logs (older app versions)
+session_logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

@@ -1,0 +1,32 @@
+Junior Data Analyst — BrightMart Retail Group
+New York, NY (Hybrid — 3 days in office)
+Full-time | $65,000 – $80,000 base + annual bonus
+
+About the role
+BrightMart is hiring a Junior Data Analyst to join our merchandising analytics team. You'll turn sales, inventory, and customer data into clear reports and recommendations that help store managers and buyers make better decisions. This is a great first analytics role for someone coming from retail operations who lives in spreadsheets and is building SQL and dashboard skills.
+
+What you'll do
+- Build and maintain weekly sales and inventory reports in Excel and Google Sheets (PivotTables, VLOOKUP/XLOOKUP, charts).
+- Pull data with basic SQL queries (SELECT, JOIN, GROUP BY, WHERE) from our sales database.
+- Support monthly business reviews with clean, accurate reporting and simple visualizations.
+- Help build and refresh dashboards in Tableau or Power BI.
+- Partner with store operations to investigate discrepancies between reported and actual inventory.
+- Document data definitions and reporting processes so the team stays aligned.
+
+What we're looking for
+- 1–3 years of experience in retail, operations, or a related field; professional experience with reporting is a plus.
+- Strong Excel skills: PivotTables, VLOOKUP/XLOOKUP, conditional formatting, charts.
+- Basic SQL (able to query and join tables); coursework or a certificate counts.
+- Familiarity with Tableau, Power BI, or another BI tool (coursework counts).
+- Clear written communication — you can explain what the numbers mean to non-technical teammates.
+- Detail-oriented and comfortable juggling weekly deadlines.
+
+Nice to have
+- Experience with inventory management or auditing.
+- Exposure to Python or Google Sheets automation.
+- A portfolio project (GitHub, Tableau Public, or similar) showing a real dataset you cleaned and analyzed.
+
+Benefits
+Health, dental, and vision insurance; 401(k) with match; 15 days PTO plus holidays; hybrid schedule; annual learning stipend for courses and certifications.
+
+To apply, submit your resume and a brief note about a dataset or report you're proud of.

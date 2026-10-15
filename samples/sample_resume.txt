@@ -1,0 +1,16 @@
+ALEX RIVERA | New York, NY | (555) 123-4567 | alex.rivera@email.com
+
+PROFESSIONAL SUMMARY
+Customer-focused operations professional with 4+ years in retail management and team leadership. Building skills in Excel, SQL, and data visualization.
+
+SKILLS
+- Excel (PivotTables, VLOOKUP), Google Sheets, basic SQL
+- Inventory management, staff training, customer service
+
+EXPERIENCE
+CityMart Retail, Shift Supervisor | 2022 - Present
+- Supervise team of 8; reduced stock discrepancies 15% via improved auditing
+- Create weekly sales reports in Excel
+
+EDUCATION
+Data Analytics coursework (Excel, SQL, Tableau) — in progress
